@@ -68,9 +68,7 @@ HP가 50% 이하가 되는 최초 1회 Blackboard Flag를 통해 Backstep → Th
 
 ## Repository Scope
 
-- 3인 팀 프로젝트에서 포트폴리오 검토를 위해 선별한 Source Code Showcase입니다.
-- 대표 구현 사례를 중심으로 선별했으며, 프로젝트에 구현된 모든 보스 코드를 포함하지는 않았습니다.
-- 보스 전투와 보스 AI 관련 C++ Source 24개만 포함합니다.
-- 실행 가능한 전체 Unreal Engine 프로젝트가 아니며, 일부 공용 Interface와 Asset 의존성이 제외되어 Build할 수 없습니다.
-- Marketplace·Third-party Asset과 Binary Asset(`.uasset`, `.umap`)을 포함하지 않습니다.
-- 플레이어 전투 시스템 구현 파일은 제외했으며, 일부 공용 코드의 플레이어·Katana 참조는 원본 형태로 남아 있습니다.
+- 3인 팀 프로젝트에서 제가 담당한 보스 전투·AI 관련 C++ Source를 선별했습니다.
+- 실행 가능한 전체 Unreal Engine 프로젝트가 아니며 일부 Interface와 Asset 의존성이 제외되어 있습니다.
+- Marketplace / Third-party Asset 및 Binary Asset(`.uasset`, `.umap`)은 포함하지 않습니다.
+- 플레이어 전투 시스템은 제외했으며, 일부 공용 코드의 플레이어·Katana 참조는 원본 형태로 남아 있습니다.
