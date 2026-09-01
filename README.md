@@ -2,6 +2,10 @@
 
 Unreal Engine 5로 제작한 3인 팀 프로젝트입니다. 팀장과 클라이언트 개발을 맡았으며, 보스 전투 패턴과 Behavior Tree 기반 AI 구현을 담당했습니다.
 
+## Gameplay
+
+[▶ Watch Re:Season Gameplay](https://www.youtube.com/watch?v=XN1Df7V1nSU)
+
 ![Re:Season Gameplay](Docs/Images/gameplay.png)
 
 ## Project Overview
